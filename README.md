@@ -9,4 +9,5 @@ capturing things related to career around cloud / in general tech
 
 
 | Company         | Locations                                     | Technology focus      | Jobs | cool fact |
+| --------------- | ------------------------------------------------------------ | ---------------------------------- |------------|-----------|
 | Brave | San francisco, United States | Privacy for internet | [jobs @ brave](https://www.linkedin.com/company/brave-software/jobs/)| work with Brendan Eich ( Javascript creator) |
